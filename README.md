@@ -156,9 +156,3 @@ Include screenshots of sample predictions showcasing classification results.
 ## License
 This project is released under the **MIT License**.
 
----
-
-This README file is structured for easy copy-pasting directly into GitHub. Feel free to adjust the sections to better fit your project! 🚀
-```
-
-Let me know if you need any refinements! 😊
