@@ -1,6 +1,6 @@
+Fashion-MNIST CNN Classifier
 
 ```markdown
-# Fashion-MNIST CNN Classifier
 
 ## Overview
 This project implements a **Convolutional Neural Network (CNN)** for classifying images in the **Fashion-MNIST** dataset using **PyTorch**. The dataset consists of **10 fashion categories**, and the goal is to train a deep learning model for accurate classification.
